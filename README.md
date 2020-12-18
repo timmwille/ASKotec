@@ -4,7 +4,7 @@
 the *Access to Skills and Knowledge Open Tech Emergency Case* is a resource kit for community trainers,
 created for mobile field-use where there is neither easy power nor internet connectivity such as refugee camps,
 low-infrastructure regions or rural areas.
-Intended as _Open Tech for Good_, #ASKotec was created through a series of hub development workshops
+Intended as [_Open Tech for Good_](https://openculture.agency/open-technology/), #ASKotec was created through a series of hub development workshops
 by a community of young innovators intent on bringing skills training and peace-building together
 in the effort to end the South Sudan conflict.
 
@@ -15,6 +15,13 @@ in the effort to end the South Sudan conflict.
 ## Tutorials
 
 - [ASKnet Open Tech](https://wikifab.org/wiki/Group:ASKnet_Open_Tech#Tutorials) (wikifab)
+- [Training Modules Repository](https://github.com/opencultureagency/ASKotec-training-modules)
+- see also in the Guides (Open Learning Guide, **Open Hardware Guide**, Open Training Guide)
+- [Packing Guide Repository](https://github.com/opencultureagency/ASKotec-packing-guide/)
+
+More Video, Photo and binary material can be found in our [Cloud](https://cloud.openculture.agency/s/weSEEpGcwCALrT8)
+
+
 
 ## Costs
 
@@ -22,21 +29,30 @@ in the effort to end the South Sudan conflict.
 
 |         | Costs
 --------- | ---
-Tools     | 650,00 €
-Materials | 200,00 €
-Total     | ~ 950 €
+Tools     | 750,00 €
+Materials | 230,00 €
+Total     | ~ 980 €
 
 - Support us: crowdfunding at <https://www.betterplace.org/en/projects/63347>
 
-![](thumbs/thumb-5.png "#ASKotec")
 
 ![](thumbs/thumb-6.jpg "HyracBox")
 
-A new part just added before the release:
+
 
 - Learn about [hyracbox.com](https://www.hyracbox.com/),
   developed by our project partners at
   [Hyractech](https://github.com/HyracTech)
+
+
+**Some new features added for Release 2.0:**
+
+- the case is now equiped with hook and loop parts
+![](thumbs/thumb-5.jpg "#ASKotec")
+
+- Everything for traveling with air can now easily be separated into main and hand luggage
+![](thumbs/thumb-5-5.jpg "#ASKotec")
+
 
 ## Public Relation
 
@@ -155,3 +171,6 @@ sudo apt install gdebi software-properties-common libavcodec-extra ffmpeg \
 ---
 
 ![](thumbs/thumb-7.jpg "#ASKotec")
+
+Pictures Created by Timm Wille
+Group Picture by Jaiksane
